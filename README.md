@@ -1,4 +1,4 @@
-# Portfolio-analysis---Diversification--Risk-analysis--performance-of-Investment-with-the-Excel and power BI 
+# Portfolio-analysis---Diversification--Risk-analysis--performance-of-Investment-with-the-Excel 
 
 Portfolio Analysis & Optimization with the help of Excel
 
